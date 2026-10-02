@@ -1,0 +1,6 @@
+PySide6==6.4.3
+PySide6-Fluent-Widgets>=1.4,<1.6
+sounddevice>=0.4.6
+soundfile>=0.12.1
+numpy>=1.24,<2
+keyboard>=0.13.5
